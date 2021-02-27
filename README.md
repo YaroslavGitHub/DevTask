@@ -1,3 +1,3 @@
 # DevTask
 
-DevTask Angular template
+DevTask template
